@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "kdf": {
+    "name": "argon2id",
+    "time_cost": 3,
+    "memory_kib": 65536,
+    "parallelism": 1,
+    "salt": "35LEBc7xhXIMIO1jBJG5Ow=="
+  },
+  "aead": "AES-256-GCM",
+  "nonce": "iU0bKHnaWBfeXFNR",
+  "ciphertext": "qgbIr1pb5Rs1fV+gGEmQ/rz2UHdG6+qQjXEwmViZnGco+ViDLWKvdM/zBRCgmaDiOfROnnY6jZMH/Bv8eKA2yUskpJq2RTOh9nm0xKyVPxvjdkpkCsUwzDrb8hCytSwNzQ41brIPg3XmUSk14TXCMTmvYWy67N6wPeTw41u6m16OwUmzaETH490d7qEogDtPuJcdJetvX2hktuWBOPkhA4Yq9wEnpK5VG7srFKJkbJhml1yOiHF+hs67hkFhUSpATyzTSa+AaCVnIRtODDzsuPYxA2RHUkNfgEXm2EH+VRGQenBS0AdBywG4SUGE8cxCWq8bsIAwQ6WlKBOXaUvetqAqqeOYOp5kaVZ5f5SAZVZVCRaLSEXhlha3xX/eGODBE3mq4xMRAggD1Icqn0AUmvE2Lp9HwsI9TGjO7i2p20YUkl74w+r91vW5JdvAdYmTkKRpjdz2irrQ1/ZL+PWxEGCX5T2ViLHePn+j3aRY9mRA4z+ZakAe3OolM+W718LMEhmYmyLj"
+}
